@@ -1,0 +1,36 @@
+id_aluno,nome,data_nascimento,sexo,telefone,email,data_matricula
+1,Carlos Eduardo Lima,1987-04-15,M,11987654321,carlos.lima@gmail.com,2024-03-10
+2,Marina Souza,1990-11-23,F,11994563210,marinasouza@gmail.com,2024-04-01
+3,João Batista,1995-07-20,M,21987654321,joao.batista@hotmail.com,2024-03-25
+4,Ana Clara Ribeiro,1993-09-12,F,21985647210,ana.ribeiro@gmail.com,2024-02-28
+5,Felipe Costa,2000-01-05,M,31987651234,felipe.costa@gmail.com,2024-01-20
+6,Juliana Martins,1989-06-30,F,11988779999,juliana.martins@outlook.com,2024-02-15
+7,Rafael Rocha,1992-08-08,M,11989887766,rafael.rocha@gmail.com,2024-03-10
+8,Bruna Alves,1995-11-03,F,11988889999,bruna.alves@gmail.com,2024-03-02
+9,Lucas Silva,1998-12-22,M,21987654321,lucas.silva@gmail.com,2024-03-20
+10,Isabela Ferreira,2002-07-18,F,11999997777,isabela.ferreira@gmail.com,2024-03-01
+11,Thiago Gomes,1990-10-10,M,11988776655,thiago.gomes@uol.com.br,2024-03-25
+12,Fernanda Melo,1992-08-17,F,31988776655,fernanda.melo@gmail.com,2024-04-05
+13,Diego Andrade,2001-02-20,M,21976543210,diego.andrade@bol.com.br,2024-03-12
+14,Amanda Costa,1996-04-04,F,11986543211,amandacosta@gmail.com,2024-03-30
+15,Gabriel Lima,1985-07-07,M,11988776655,gabriel.lima@gmail.com,2024-03-22
+16,Camila Duarte,1994-06-06,F,11988775544,camila.duarte@gmail.com,2024-04-10
+17,Renan Oliveira,1993-01-15,M,11999887766,renan.oliveira@hotmail.com,2024-03-15
+18,Patrícia Souza,1985-03-25,F,11987654322,patricia.souza@gmail.com,2024-03-20
+19,Marcelo Dias,1990-12-12,M,21988765432,marcelo.dias@gmail.com,2024-04-01
+20,Letícia Gomes,1991-11-11,F,11988779988,leticia.gomes@gmail.com,2024-04-03
+21,Eduardo Silva,1992-09-09,M,11987654321,eduardo.silva@gmail.com,2024-03-28
+22,Carolina Menezes,1995-10-10,F,31988775533,carolina.menezes@gmail.com,2024-04-02
+23,Fernando Rocha,1988-08-08,M,11988887777,fernando.rocha@gmail.com,2024-03-27
+24,Sofia Lima,1994-07-07,F,21987654333,sofia.lima@gmail.com,2024-04-05
+25,André Castro,1996-06-06,M,11987776655,andre.castro@gmail.com,2024-03-30
+26,Mariana Alves,1993-05-05,F,11999887744,mariana.alves@gmail.com,2024-03-29
+27,Victor Pereira,1989-04-04,M,11988775555,victor.pereira@gmail.com,2024-04-04
+28,Juliana Santos,1992-03-03,F,11987778888,juliana.santos@gmail.com,2024-03-31
+29,Paulo Costa,1990-02-02,M,21987654344,paulo.costa@gmail.com,2024-04-01
+30,Ana Paula,1995-01-01,F,11999887733,ana.paula@gmail.com,2024-04-06
+31,Márcio Gomes,,M,11988770000,marcio.gomes@gmail.com,2024-04-05
+32,Patrícia Almeida,,F,11987650000,patricia.almeida@gmail.com,2024-04-06
+33,Roberto Silva,1985-07-07,M,,roberto.silva@gmail.com,2024-04-02
+34,Camila Souza,1990-09-09,F,11987650001,camilasouza.com,2024-04-03
+35,Julio Cesar,1982-12-12,M,11988776677,,2024-04-01

@@ -1,0 +1,51 @@
+id_plano,nome,preco_mensal,duracao_meses
+1,Plano Básico,79.9,1
+2,Plano Intermediário,119.9,3
+3,Plano Avançado,149.9,6
+4,Plano Premium,199.9,12
+5,Musculação Light,89.9,1
+6,Musculação Completa,129.9,3
+7,Yoga Zen,99.9,1
+8,Yoga Full,149.9,6
+9,Crossfit Starter,139.9,1
+10,Crossfit Pro,189.9,3
+11,Pilates Básico,109.9,1
+12,Pilates Plus,159.9,6
+13,Spinning Diário,119.9,1
+14,Spinning Intenso,139.9,3
+15,Funcional Light,89.9,1
+16,Funcional Pro,129.9,3
+17,Alongamento Fit,69.9,1
+18,Alongamento Master,99.9,3
+19,HIIT Básico,109.9,1
+20,HIIT Completo,149.9,6
+21,Treino Total,179.9,6
+22,Treino Elite,199.9,12
+23,Corpo em Forma,149.9,3
+24,Vida Saudável,129.9,3
+25,Express 30,69.9,1
+26,Power Cardio,119.9,3
+27,Equilíbrio Zen,109.9,3
+28,Plano Família,299.9,12
+29,Weekend Fit,49.9,1
+30,Matinal Energy,59.9,1
+31,Vespertino Pro,69.9,1
+32,Noturno Ativo,89.9,1
+33,Plano Corporativo,399.9,12
+34,Plano Estudante,99.9,6
+35,Treino Mulher,129.9,3
+36,Treino Masculino,129.9,3
+37,Treino Terceira Idade,109.9,6
+38,Plano Casal,259.9,6
+39,Personal VIP,349.9,12
+40,Plano Essencial,99.9,3
+41,Plano Fit+,139.9,3
+42,Cardio + Força,169.9,6
+43,Mix Funcional,149.9,3
+44,Treino Rápido,79.9,1
+45,Plano Completo,199.9,12
+46,Desafio 90 Dias,179.9,3
+47,Plano Pós-parto,129.9,3
+48,Plano Iniciante,89.9,1
+49,Plano Intensivo,159.9,6
+50,Plano Anual,219.9,12

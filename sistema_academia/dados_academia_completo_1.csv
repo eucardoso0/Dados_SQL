@@ -1,0 +1,36 @@
+id_aluno,nome,email,telefone,sexo,data_nascimento,id_matricula,data_inicio,data_fim,id_plano,nome_plano,preco_mensal,duracao_meses
+1,Carlos Eduardo Lima,carlos.lima@gmail.com,11987654321,M,1987-04-15,1,2024-01-10,2024-02-10,1,Plano Básico,79.9,1
+2,Marina Souza,marinasouza@gmail.com,11994563210,F,1990-11-23,2,2024-01-15,2024-04-15,2,Plano Intermediário,119.9,3
+3,João Batista,joao.batista@hotmail.com,21987654321,M,1995-07-20,3,2024-01-20,2024-07-20,3,Plano Avançado,149.9,6
+4,Ana Clara Ribeiro,ana.ribeiro@gmail.com,21985647210,F,1993-09-12,4,2024-02-01,2025-02-01,4,Plano Premium,199.9,12
+5,Felipe Costa,felipe.costa@gmail.com,31987651234,M,2000-01-05,5,2024-02-05,2024-03-05,5,Musculação Light,89.9,1
+6,Juliana Martins,juliana.martins@outlook.com,11988779999,F,1989-06-30,6,2024-02-10,2024-05-10,6,Musculação Completa,129.9,3
+7,Rafael Rocha,rafael.rocha@gmail.com,11989887766,M,1992-08-08,7,2024-02-15,2024-08-15,7,Yoga Zen,99.9,1
+8,Bruna Alves,bruna.alves@gmail.com,11988889999,F,1995-11-03,8,2024-02-20,2025-02-20,8,Yoga Full,149.9,6
+9,Lucas Silva,lucas.silva@gmail.com,21987654321,M,1998-12-22,9,2024-02-25,2024-05-25,9,Crossfit Starter,139.9,1
+10,Isabela Ferreira,isabela.ferreira@gmail.com,11999997777,F,2002-07-18,10,2024-03-01,2024-04-01,10,Crossfit Pro,189.9,3
+11,Thiago Gomes,thiago.gomes@uol.com.br,11988776655,M,1990-10-10,11,2024-03-03,2024-06-03,11,Pilates Básico,109.9,1
+12,Fernanda Melo,fernanda.melo@gmail.com,31988776655,F,1992-08-17,12,2024-03-05,2024-09-05,12,Pilates Plus,159.9,6
+13,Diego Andrade,diego.andrade@bol.com.br,21976543210,M,2001-02-20,13,2024-03-07,2025-03-07,13,Spinning Diário,119.9,1
+14,Amanda Costa,amandacosta@gmail.com,11986543211,F,1996-04-04,14,2024-03-10,2024-06-10,14,Spinning Intenso,139.9,3
+15,Gabriel Lima,gabriel.lima@gmail.com,11988776655,M,1985-07-07,15,2024-03-12,2024-04-12,15,Funcional Light,89.9,1
+16,Camila Duarte,camila.duarte@gmail.com,11988775544,F,1994-06-06,16,2024-03-15,2024-06-15,16,Funcional Pro,129.9,3
+17,Renan Oliveira,renan.oliveira@hotmail.com,11999887766,M,1993-01-15,17,2024-03-17,2024-09-17,17,Alongamento Fit,69.9,1
+18,Patrícia Souza,patricia.souza@gmail.com,11987654322,F,1985-03-25,18,2024-03-20,2025-03-20,18,Alongamento Master,99.9,3
+19,Marcelo Dias,marcelo.dias@gmail.com,21988765432,M,1990-12-12,19,2024-03-22,2024-06-22,19,HIIT Básico,109.9,1
+20,Letícia Gomes,leticia.gomes@gmail.com,11988779988,F,1991-11-11,20,2024-03-25,2024-04-25,20,HIIT Completo,149.9,6
+21,Eduardo Silva,eduardo.silva@gmail.com,11987654321,M,1992-09-09,21,2024-03-28,2024-04-28,1,Plano Básico,79.9,1
+22,Carolina Menezes,carolina.menezes@gmail.com,31988775533,F,1995-10-10,22,2024-04-01,2024-07-01,2,Plano Intermediário,119.9,3
+23,Fernando Rocha,fernando.rocha@gmail.com,11988887777,M,1988-08-08,23,2024-04-03,2024-10-03,3,Plano Avançado,149.9,6
+24,Sofia Lima,sofia.lima@gmail.com,21987654333,F,1994-07-07,24,2024-04-05,2025-04-05,4,Plano Premium,199.9,12
+25,André Castro,andre.castro@gmail.com,11987776655,M,1996-06-06,25,2024-04-07,2024-05-07,5,Musculação Light,89.9,1
+26,Mariana Alves,mariana.alves@gmail.com,11999887744,F,1993-05-05,26,2024-04-10,2024-07-10,6,Musculação Completa,129.9,3
+27,Victor Pereira,victor.pereira@gmail.com,11988775555,M,1989-04-04,27,2024-04-12,2024-10-12,7,Yoga Zen,99.9,1
+28,Juliana Santos,juliana.santos@gmail.com,11987778888,F,1992-03-03,28,2024-04-15,2025-04-15,8,Yoga Full,149.9,6
+29,Paulo Costa,paulo.costa@gmail.com,21987654344,M,1990-02-02,29,2024-04-17,2024-07-17,9,Crossfit Starter,139.9,1
+30,Ana Paula,ana.paula@gmail.com,11999887733,F,1995-01-01,30,2024-04-20,2024-05-20,10,Crossfit Pro,189.9,3
+31,Márcio Gomes,marcio.gomes@gmail.com,11988770000,M,,31,2024-04-22,2024-07-22,11,Pilates Básico,109.9,1
+32,Patrícia Almeida,patricia.almeida@gmail.com,11987650000,F,,32,2024-04-24,2024-10-24,12,Pilates Plus,159.9,6
+33,Roberto Silva,roberto.silva@gmail.com,,M,1985-07-07,33,2024-04-26,2025-04-26,13,Spinning Diário,119.9,1
+34,Camila Souza,camilasouza.com,11987650001,F,1990-09-09,34,2024-04-28,2024-07-28,14,Spinning Intenso,139.9,3
+35,Julio Cesar,,11988776677,M,1982-12-12,35,2024-04-30,2024-05-30,15,Funcional Light,89.9,1
